@@ -1,0 +1,13 @@
+.container
+{
+	border-radius: 15px;
+	background: white;
+	width:95%;
+	margin:auto;
+}
+
+body{
+	background-color: orange;
+}
+
+.slider img
